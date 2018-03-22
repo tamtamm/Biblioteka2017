@@ -1,6 +1,6 @@
 package biblioteka;
 
-public class Knjiga {
+public class Knjiga1 {
 
 	
 		public String naslov;
